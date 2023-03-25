@@ -1,7 +1,7 @@
 # Juego-de-Learn-Git
 # Jose Junior Guzman Veloz
-#2021-0348
-#Evidencia 
+# 2021-0348
+#Las 
 [Evidencia ](https://drive.google.com/drive/folders/1UGsK44UDzB24__eFNDcDcfWTfVz1YO6C?usp=sharing)
 #Codigo Utilizado 
 
