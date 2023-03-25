@@ -1,5 +1,5 @@
 # Juego-de-Learn-Git
-![foto de cabecera](![337395993_746170307024069_6246817935066201264_n](https://user-images.githubusercontent.com/88073357/227731578-8cbb2997-7875-4a64-9c6d-abf0b350bf8f.jpg)
+!(https://user-images.githubusercontent.com/88073357/227731578-8cbb2997-7875-4a64-9c6d-abf0b350bf8f.jpg)
 )
 # Jose Junior Guzman Veloz
 #2021-0348
