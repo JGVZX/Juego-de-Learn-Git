@@ -3,7 +3,7 @@
 # 2021-0348
 #Las 
 [Evidencia ](https://drive.google.com/drive/folders/1UGsK44UDzB24__eFNDcDcfWTfVz1YO6C?usp=sharing)
-#Codigo Utilizado 
+ de la elaboracion del Juego de Learn
 
 * git commit
 * git checkout bugFix
