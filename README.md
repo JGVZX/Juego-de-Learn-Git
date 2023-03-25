@@ -5,6 +5,8 @@
 [Evidencia ](https://drive.google.com/drive/folders/1UGsK44UDzB24__eFNDcDcfWTfVz1YO6C?usp=sharing)
  de la elaboracion del Juego de Learn
 
+**Este es mi Primear README.MD todavia no lo domino pero adquirimos conocimiento de Google ahi vamos mi nombre es Jose Junior Guzman Veloz Matricula 2021-0348 estuve haciendo un juego interesante y me lo encotre muy entretenido pero hay que dominar mas **
+
 * git commit
 * git checkout bugFix
 * git checkout -b bugfix
@@ -77,4 +79,4 @@
 * git fetch origin bar:foo
 * git origin main:side
 
-**Este es mi Primear README.MD todavia no lo domino pero adquirimos conocimiento de Google ahi vamos mi nombre es Jose Junior Guzman Veloz Matricula 2021-0348 estuve haciendo un juego interesante y me lo encotre muy entretenido pero hay que dominar mas **
+
