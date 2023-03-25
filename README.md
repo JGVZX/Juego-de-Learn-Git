@@ -1,8 +1,8 @@
 # Juego-de-Learn-Git
-! [](![337395993_746170307024069_6246817935066201264_n](https://user-images.githubusercontent.com/88073357/227731830-af51d1de-1e69-4cc1-b464-eb0b3176d69d.jpg))
 # Jose Junior Guzman Veloz
 #2021-0348
-
+#Evidencia 
+[Evidencia ](https://drive.google.com/drive/folders/1UGsK44UDzB24__eFNDcDcfWTfVz1YO6C?usp=sharing)
 #Codigo Utilizado 
 
 * git commit
@@ -77,4 +77,4 @@
 * git fetch origin bar:foo
 * git origin main:side
 
-**Este es mi Primear README.MD todavia no lo domino pero ahi vamos mi nombre es Jose Junior Guzman Veloz Matricula 2021-0348 estuve haciendo un juego interesante y me lo encotre muy entretenido pero hay que dominar mas **
+**Este es mi Primear README.MD todavia no lo domino pero adquirimos conocimiento de Google ahi vamos mi nombre es Jose Junior Guzman Veloz Matricula 2021-0348 estuve haciendo un juego interesante y me lo encotre muy entretenido pero hay que dominar mas **
