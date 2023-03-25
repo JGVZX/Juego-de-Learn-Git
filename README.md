@@ -6,7 +6,7 @@
 #Codigo Utilizado 
 
 *git commit
-git checkout bugFix
+*git checkout bugFix
 git checkout -b bugfix
 git branch bugFix
 git checkout main
