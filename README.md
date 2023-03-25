@@ -1,5 +1,6 @@
 # Juego-de-Learn-Git
-![foto de cabecera]([https://cdn.pixabay.com/photo/2017/03/18/01/07/willow-catkin-2152984_960_720.jpg](https://scontent.fsti4-1.fna.fbcdn.net/v/t39.30808-6/337395993_746170307024069_6246817935066201264_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6JVn1ESOz6oAX_wqawX&_nc_ht=scontent.fsti4-1.fna&oh=00_AfDx5ku5N4z7G5tqg9pnrJRnDTjAci4s1R1SGJdP7I7dhA&oe=6424F1E6))
+![foto de cabecera](![337395993_746170307024069_6246817935066201264_n](https://user-images.githubusercontent.com/88073357/227731578-8cbb2997-7875-4a64-9c6d-abf0b350bf8f.jpg)
+)
 # Jose Junior Guzman Veloz
 #2021-0348
 
