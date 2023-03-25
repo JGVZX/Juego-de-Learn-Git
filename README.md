@@ -8,7 +8,8 @@
 **Este es mi Primear README.MD todavia no lo domino pero adquirimos conocimiento de Google ahi vamos mi nombre es Jose Junior Guzman Veloz Matricula 2021-0348 estuve haciendo un juego interesante y me lo encotre muy entretenido pero hay que dominar mas **
 # Descripcion
 
-**aqui el codigo *que se utilizo*
+aqui el codigo *que se utilizo*
+
 * git commit
 * git checkout bugFix
 * git checkout -b bugfix
